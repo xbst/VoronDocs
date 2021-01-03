@@ -9,6 +9,5 @@
 
 ## Still Needed
 
-   1. Twisted X Extrusion
-   2. Uneven First Layer
-   3. Check for missed steps
+   1. Uneven First Layer
+   2. Check for missed steps
