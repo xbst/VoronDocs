@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/bdbell/VoronDocs/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the world of Voron 3D printers!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the Voron Documentation site. All of the information needed to go from zero to a working Voron printer can be found here.
 
-### Markdown
+## Official Documentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This information is considered to be "official" and what is supported.  If this is the first visit, please start with the overview.
 
-```markdown
-Syntax highlighted code block
+1. [Overview](./official/README.md)
+2. [About Voron](./official/about.md)
+3. [Choosing A Printer / Extruder](./official/hardware/README.md)
+4. [Sourcing Information](./official/sourcing.md)
+5. [The Build](./official/build/README.md)
+6. [Tuning Guides](./official/tuning/README.md)
+7. [Maintenance](./official/maintenance/README.md)
+8. [Voron History](./official/history.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Community Documentation
 
-- Bulleted
-- List
+This documentation is community provided.  It may contain some different methods or guidance from the official documentation.
 
-1. Numbered
-2. List
+1. [How To Guides](./community/howto/README.md)
+2. [Troubleshooting](./community/troubleshooting/README.md)
+3. [Alternate Electronics](./community/electronics/README.md)
+4. [Custom Macros](./community/macros/README.md)
+5. [Video Guides](./community/video_guides.md)
+6. [Other Resources](./community/resources.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdbell/VoronDocs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](./official/hardware/images/Voron2.jpg)
