@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Filament Runout Sensor
 
 Klipper supports a filament runout sensor to automatically pause and resume a print if filament ends.  This guide goes through the process of setting up a Triagle Labs filament runout sensor.

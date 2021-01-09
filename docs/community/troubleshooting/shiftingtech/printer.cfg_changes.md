@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # printer.cfg Changes & Klipper updates
 You just updated klipper, and now your printer won't start?  Don't worry.  The vast majority of these issues are quickly fixed with a few easy changes to your *printer.cfg*
 

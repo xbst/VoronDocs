@@ -2,7 +2,7 @@
 layout: default
 title: Troubleshooting
 parent: Community Documentation
-nav_order: r21
+nav_order: 2
 ---
 
 # Troubleshooting

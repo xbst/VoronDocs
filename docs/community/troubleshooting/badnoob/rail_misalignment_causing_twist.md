@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Rail Misalignment Causing Twist
 
 ## Issue with twist?

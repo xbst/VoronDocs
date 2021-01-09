@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Twisted X Extrusion Diagnostics
 
 If a first layer is constantly high on one or both sides and is low on the other side or in the middle, the printer may have a twisted X extrusion.  than can happen from the factory or be a result of a head crash.

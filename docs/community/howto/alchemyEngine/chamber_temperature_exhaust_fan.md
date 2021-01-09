@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Chamber Temperature & Exhaust Fan
 
 While the two functions can be combined, if doing just chamber temperature the process is slightly different so they are documented separately.  The exhaust fan is already configured as part of the default build so no information on installation is provied.

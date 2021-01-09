@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Rotation Distance
 On 2020-12-22, klipper introduced a new system for defining stepper motor movement, replacing the old `step_distance` setting with a new `rotation_distance` setting.
 Currently, we are in a transitional period, where the old `step_distance` settings are depreciated, but may still be used.  Sometime around 2021-06-15, this new system is expected to become mandatory.  When this second change occurs, it *will break* all printer.cfg which have not been adapted to the new system.
