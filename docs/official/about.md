@@ -1,3 +1,10 @@
+---
+layout: default
+title: About Voron
+parent: Voron Official Documentation
+nav_order: 1
+---
+
 # About Voron
 
 ### Motion System

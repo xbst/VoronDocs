@@ -1,3 +1,10 @@
+---
+layout: default
+title: Choosing a Printer / Extruder
+parent: Voron Official Documentation
+nav_order: 2
+---
+
 # Choosing a Printer / Extruder 
 
 This is a guide to help people in selecting and building their first Voron printer and/or extruder.

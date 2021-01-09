@@ -1,3 +1,11 @@
+---
+layout: default
+title: The Build
+parent: Voron Official Documentation
+has_children: true
+nav_order: 4
+---
+
 # The Build
 
 This guide contains all the the steps to go from a pile of parts to a functioning printer with a known working configuration.

@@ -1,3 +1,10 @@
+---
+layout: default:
+title: Voron Official Documentation
+nav_order: 1
+has_children: true
+---
+
 # Voron Official Documentation
 
 This is the primary repository for the 'official' Voron documentation that has been reviewed and approved by the Voron development team.  Everything that is contained in here is fully vetted and supported.

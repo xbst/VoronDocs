@@ -1,3 +1,10 @@
+---
+layout: default
+title: Maintenance Guide
+parent: Voron Official Documentation
+nav_order: 6
+---
+
 # Maintenance Guide
 
 Printers need maintenance!

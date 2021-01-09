@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sourcing Information
+parent: Voron Official Documentation
+has_children: true
+nav_order: 3
+---
+
 # Sourcing Information
 
 ## Printing Parts

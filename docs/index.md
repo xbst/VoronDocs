@@ -1,7 +1,6 @@
 ---
 layout:default
 title: Voron Documentation
-has_children: true
 ---
 
 # Voron Documentation

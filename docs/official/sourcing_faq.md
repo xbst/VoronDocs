@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sourcing / Buying FAQ
+parent: Sourcing Information
+---
+
 # Sourcing / Buying FAQ
 
 These are common questions for builders looking to gather all of the components for their upcoming build.
