@@ -1,4 +1,10 @@
-# Welcome
+---
+layout:default
+title: Voron Documentation
+has_children: true
+---
+
+# Voron Documentation
 
 Welcome to the world of Voron 3D printers!
 
