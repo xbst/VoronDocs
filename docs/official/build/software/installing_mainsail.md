@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Installing Mainsail
 nav_exclude: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: bbEdit Config Editor (macOS)
 nav_exclude: true
 ---
 

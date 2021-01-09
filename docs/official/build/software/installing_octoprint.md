@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Installing Octoprint
 nav_exclude: true
 ---
 

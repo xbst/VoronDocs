@@ -1,5 +1,6 @@
 ---
 layout: default
+title: V2 Gantry Wires
 nav_exclude: true
 ---
 

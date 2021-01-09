@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Voron V1 - SKR 1.4 Wiring
 nav_exclude: true
 ---
 

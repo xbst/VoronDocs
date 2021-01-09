@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SKR mini E3 Klipper Firmware
 nav_exclude: true
 ---
 

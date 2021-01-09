@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Installing Fluidd
 nav_exclude: true
 ---
 

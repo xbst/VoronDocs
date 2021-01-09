@@ -1,3 +1,11 @@
+---
+layout: default
+title: Secondary Printer Tuning
+parent: Tuning Guides
+grand_parent: Voron Official Documentation
+nav_order: 1
+---
+
 # Secondary Printer Tuning
 
 Tuning steps and processes after everything is working.

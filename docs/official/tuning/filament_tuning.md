@@ -1,3 +1,11 @@
+---
+layout: default
+title: Filament Tuning
+parent: Tuning Guides
+grand_parent: Voron Official Documentation
+nav_order: 2
+---
+
 # Filament Tuning
 
 Steps and guides for getting filament printing just right.

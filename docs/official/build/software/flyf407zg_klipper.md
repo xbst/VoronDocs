@@ -1,5 +1,6 @@
 ---
 layout: default
+title: FLY FLYF407ZG Klipper Firmware
 nav_exclude: true
 ---
 
