@@ -86,7 +86,7 @@ To display the chamber temperature on the front panel display, additional config
 
 * Download the [lcd_tweaks.cfg](./lcd_tweaks.cfg) configuration file and load onto the pi.
 * Edit _printer.cfg_ and add the line `[include lcd_tweaks.cfg]` to include the file.
-* If only doing chamber temperature, edit the line `{% set chamber = printer['temperature_fan chamber'] %}` and replace with `{% set chamber = printer['temperature_sensor chamber'] %}`
+* If only doing chamber temperature, edit the line ```{% set chamber = printer['temperature_fan chamber'] %}``` and replace with ```{% set chamber = printer['temperature_sensor chamber'] %}```
 * Restart Klipper with a `FIRMWARE_RESTART`
 * If the display does not come on or only partially displays, check the `/tmp/klippy.log` for more information.
 
