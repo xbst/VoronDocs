@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Twisted X Extrusion Diagnostics
 nav_exclude: true
 ---
 

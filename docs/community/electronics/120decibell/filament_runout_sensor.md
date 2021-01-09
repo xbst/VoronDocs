@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Filament Runout Sensor
 nav_exclude: true
 ---
 

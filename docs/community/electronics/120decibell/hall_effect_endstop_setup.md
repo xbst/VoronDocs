@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hall Effect Endstop Setup
 nav_exclude: true
 ---
 

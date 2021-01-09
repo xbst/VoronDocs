@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Blob of Death
 nav_exclude: true
 ---
 

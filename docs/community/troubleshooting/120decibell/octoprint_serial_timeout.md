@@ -1,5 +1,6 @@
 ---
 layout: default
+title: OctoPrint Serial Timeout
 nav_exclude: true
 ---
 

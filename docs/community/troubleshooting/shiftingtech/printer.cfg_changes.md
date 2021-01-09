@@ -1,5 +1,6 @@
 ---
 layout: default
+title: printer.cfg Changes & Klipper updates
 nav_exclude: true
 ---
 

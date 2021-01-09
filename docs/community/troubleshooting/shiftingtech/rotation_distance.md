@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Rotation Distance
 nav_exclude: true
 ---
 

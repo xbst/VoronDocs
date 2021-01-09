@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Lights Flickering with Bed Heater
 nav_exclude: true
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Calculating Driver Current Settings
 nav_exclude: true
 ---
 

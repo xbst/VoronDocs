@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Klipper Common Errors
 nav_exclude: true
 ---
 

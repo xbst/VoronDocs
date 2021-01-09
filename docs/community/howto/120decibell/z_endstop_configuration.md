@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Z Offset Calibration
 nav_exclude: true
 ---
 
