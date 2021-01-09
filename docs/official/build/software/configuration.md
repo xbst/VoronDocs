@@ -155,4 +155,4 @@ Recv: // Klipper state: Ready
 If after 30-60 seconds there is no Ready message, then run `STATUS` in the terminal window.  If Klipper comes back _Not Ready_ it will notify if there is a configuration issue that needs to be corrected.
 
 ---
-### Next: [Initial Startup](../startup/README.md)
+### Next: [Initial Startup](../startup/index.md)

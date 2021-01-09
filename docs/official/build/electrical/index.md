@@ -150,4 +150,4 @@ Note: In the diagram below, only DC wires are shown.  Red represents V+, black r
 ![](./images/gnd_switch_example.png)
 
 ----
-## Next: [Software](../software/README.md)
+## Next: [Software](../software/index.md)

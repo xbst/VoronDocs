@@ -58,4 +58,4 @@ Turn on the power supply to power on the Mini E3 board.  If named properly, the 
 
 **Important:** If the Mini E3 is not powered with 12-24V, Klipper will be unable to communicate with the TMC drivers via UART and the Mini E3 will automatically shut down.
 
-### Back to [Software Installation](./README.md#klipper-octoprint-configuration)
+### Back to [Software Installation](./index.md#klipper-octoprint-configuration)

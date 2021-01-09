@@ -8,13 +8,13 @@ If this is the first time building a Voron printer (especially if this is the fi
 
 ### [About Voron](./about.md)
 
-### [Choosing a Printer / Extruder](./hardware/README.md)
+### [Choosing a Printer / Extruder](./hardware/index.md)
 
 ### [Sourcing Information](./sourcing.md)
 
-### [The Build](./build/README.md)
+### [The Build](./build/index.md)
 
-### [Tuning Guide](./tuning/README.md)
+### [Tuning Guide](./tuning/index.md)
 
 ### [Maintenance Guides](./maintenance/READMD.md)
 

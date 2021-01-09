@@ -9,16 +9,16 @@ This guide designed to be a "universal" setup guide that can be used across all 
 If you need help and are not there already, please join the [Discord](https://discord.gg/voron)!
 
 ---
-## [Mechanical Assembly](./mechanical/README.md)
+## [Mechanical Assembly](./mechanical/index.md)
 
-## [Electrical Wiring](./electrical/README.md)
+## [Electrical Wiring](./electrical/index.md)
 
-## [Software Installation](./software/README.md)
+## [Software Installation](./software/index.md)
 
 ## [Software Configuration](./software/configuration.md)
 
-## [First Printer Startup](./startup/README.md)
+## [First Printer Startup](./startup/index.md)
 
-## [Slicer Setup](./slicer/README.md)
+## [Slicer Setup](./slicer/index.md)
 
 ## [First Print](./slicer/first_print.md)

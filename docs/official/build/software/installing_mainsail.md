@@ -23,11 +23,11 @@ _note: It is a good idea to use a premium SDcard from a reputable manufacturer s
 >
 > [ssh howto for klipper](../../../community/howto/shiftingtech/ssh.md)
 
-### Next: [Firmware Flashing](./README.md#firmware-flashing)
+### Next: [Firmware Flashing](./index.md#firmware-flashing)
 
 ## Mainsail Manual Installation
 
 The Mainsail manual installation process is documented on the [Mainsail wiki](https://meteyou.github.io/mainsail/setup/)
 
 ---
-### Back: [Software Installation](./README.md)
+### Back: [Software Installation](./index.md)

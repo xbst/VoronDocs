@@ -57,4 +57,4 @@ Turn on the power supply to power on the FLY board.  If named properly, the FLY 
 
 **Important:** If the FLY not powered with 12-24V, Klipper will be unable to communicate with the TMC drivers via UART and the FLY will automatically shut down.
 
-### Back to [Software Installation](./README.md#klipper-octoprint-configuration)
+### Back to [Software Installation](./index.md#klipper-octoprint-configuration)

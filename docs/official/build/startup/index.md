@@ -296,7 +296,7 @@ New Position = Old Position - Tune Adjustment *(e.g. New Position = Old Position
 
 > ***Related Community Documentation***
 > 
-> [Z Endstop Configuration](../../../community/howto/z_endstop_configuration/README.md)
+> [Z Endstop Configuration](../../../community/howto/z_endstop_configuration/index.md)
 
 ## Extruder Calibration (e-steps)
 
@@ -316,4 +316,4 @@ Paste the new value into the configuration file, restart Klipper, and try again.
 Typical e-step values should be around 0.00240 for Afterburner or 0.00180 for Mobius.
 
 ---
-### Next: [Slicer Setup](../slicer/README.md)
+### Next: [Slicer Setup](../slicer/index.md)

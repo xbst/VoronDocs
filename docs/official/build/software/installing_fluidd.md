@@ -25,11 +25,11 @@ _note: It is a good idea to use a premium SDcard from a reputable manufacturer s
 >
 > [ssh howto for klipper](../../../community/howto/shiftingtech/ssh.md)
 
-### Next: [Firmware Flashing](./README.md#firmware-flashing)
+### Next: [Firmware Flashing](./index.md#firmware-flashing)
 
 ## Fluidd Manual Installation
 
 Coming soon.
 
 ---
-### Back: [Software Installation](./README.md)
+### Back: [Software Installation](./index.md)

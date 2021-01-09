@@ -40,4 +40,4 @@ The OctoPrint web server needs to be configured to communicate with the Klipper 
 * Print Time Genius
 
 ---
-### Back: [Software Installation](./README.md)
+### Back: [Software Installation](./index.md)
