@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Installing Fluidd
 
 The recommended way to install Fluidd on a Raspberry Pi is to use [FluiddPi](#FluiddPi), a pre-packaged disk image.  If you are building a custom configuration, you may need to skip these instructions and install Fluidd [manually](#fluidd-manual-installation).

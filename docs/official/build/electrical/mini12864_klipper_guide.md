@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Mini12864 Klipper Guide
 
 ## Requirements

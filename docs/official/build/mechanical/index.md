@@ -1,3 +1,11 @@
+---
+layout: default
+title: Mechanical Assembly
+parent: The Build
+grand_parent: Voron Official Documentation
+nav_order: 1
+---
+
 # Mechanical Assembly
 
 ## Tips

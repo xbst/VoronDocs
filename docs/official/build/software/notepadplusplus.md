@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Notepad++ Configuration Editor (Windows)
 
 1.  Install [Notepad++](https://notepad-plus-plus.org)

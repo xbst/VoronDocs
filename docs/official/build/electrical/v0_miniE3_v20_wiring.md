@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Voron V0 - SKR mini E3 V2.0 Wiring
 
 ## MCU

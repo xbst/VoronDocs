@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # SKR 1.3/1.4 Klipper Firmware
 
 The firmware update process for both SKR 1.3 and SKR 1.4 is the same so the guides have been combined.

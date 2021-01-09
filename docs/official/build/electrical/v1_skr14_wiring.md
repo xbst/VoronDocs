@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Voron V1 - SKR 1.4 Wiring
 
 ## Initial Preparation

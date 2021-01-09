@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Installing Octoprint
 
 Install OctoPrint on the Raspberry Pi by following the instructions found at [OctoPrint Download](https://octoprint.org/download/)

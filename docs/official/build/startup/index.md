@@ -1,3 +1,11 @@
+---
+layout: default
+title: Initial Startup
+parent: The Build
+grand_parent: Voron Official Documentation
+nav_order: 5
+---
+
 # Initial Startup Checks
 
 _This guide is written as OctoPrint specific and will be updated over time to also acommodate Mainsail._

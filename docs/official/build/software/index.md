@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Slicer Setup
+title: Software Installation
 parent: The Build
 grand_parent: Voron Official Documentation
-nav_order: 6
+nav_order: 3
 ---
 
 # Software Installation

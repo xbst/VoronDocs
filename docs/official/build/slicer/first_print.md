@@ -1,3 +1,11 @@
+---
+layout: default
+title: First Print
+parent: The Build
+grand_parent: Voron Official Documentation
+nav_order: 7
+---
+
 # First Print
 
 Download the “voron\_design\_cube\_v7.stl” from the [Voron Github page](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/TEST_PRINTS), and open the file in the chosen slicer. Use the default slicer settings, but make sure the hotend temperature and bed temperature is correct for the filament you are using. A good starting point is 240C hotend temperature, 100C heated bed temperature, and 92% flow for ABS.

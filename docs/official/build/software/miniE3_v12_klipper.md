@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # SKR mini E3 Klipper Firmware
 
 The firmware update process for both SKR mini E3 V1.2 and SKR mini E3 V2.0 is the same.

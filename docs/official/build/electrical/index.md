@@ -1,3 +1,11 @@
+---
+layout: default
+title: Electrical Wiring
+parent: The Build
+grand_parent: Voron Official Documentation
+nav_order: 2
+---
+
 # Electrical Wiring
 
 ## Safety Note

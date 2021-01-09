@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # V2 Gantry Wires
 
 This chart only includes what goes into the cable chains to the gantry.  It does NOT include exhaust fan, filament runout sensor, or wiring of anything at or below the bed.

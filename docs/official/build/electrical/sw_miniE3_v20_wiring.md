@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Voron Switchwire - SKR mini E3 V2.0 Wiring
 
 ## MCU

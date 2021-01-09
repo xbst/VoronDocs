@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Voron Switchwire - Einsy Rambo Wiring
 
 ## MCU

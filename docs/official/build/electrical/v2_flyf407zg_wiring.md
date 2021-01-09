@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Voron V2 - FLY FLYF407ZG Wiring
 
 ## Initial Preparation

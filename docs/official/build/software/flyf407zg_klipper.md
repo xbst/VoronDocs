@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # FLY FLYF407ZG Klipper Firmware
 
 ### Required Items

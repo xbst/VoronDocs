@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Installing Mainsail
 
 The recommended way to install Mainsail on a Raspberry Pi is to use [MainsailOS](#MainsailOS), a pre-packaged disk image.  If you are building a custom configuration, you may need to skip these instructions and install Mainsail [manually](#mainsail-manual-installation).

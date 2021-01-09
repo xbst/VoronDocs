@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # bbEdit Config Editor (macOS)
 
 1. Install [bbEdit](https://www.barebones.com/products/bbedit/). The free version works great!
