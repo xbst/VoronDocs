@@ -1,3 +1,10 @@
+---
+layout: default
+title: Other Resources
+parent: Community Documentation
+nav_order: 6
+---
+
 # Resources
 
 There's lots.

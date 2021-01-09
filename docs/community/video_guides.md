@@ -1,3 +1,10 @@
+---
+layout: default
+title: Video Guides
+parent: Community Documentation
+nav_order: 5
+---
+
 # Video Guides
 
 [Nero's video series on sourcing and assembling a Voron](https://www.youtube.com/playlist?list=PL7zrGeKp_8CR7oSREn46GCAteJdN9XGzW)

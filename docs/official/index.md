@@ -1,5 +1,5 @@
 ---
-layout: default:
+layout: default
 title: Voron Official Documentation
 nav_order: 1
 has_children: true

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Troubleshooting
+parent: Community Documentation
+nav_order: r21
+---
+
 # Troubleshooting
 
 | Guide Name / Link | Author |

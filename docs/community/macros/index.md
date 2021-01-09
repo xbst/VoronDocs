@@ -1,3 +1,10 @@
+---
+layout: default
+title: Custom Macros
+parent: Community Documentation
+nav_order: 4
+---
+
 # Macros
 
 Macros are an essential tool for configuring and managing Klipper.  A number of macros are pre-defined in the example configurations but a lot more is possible.
