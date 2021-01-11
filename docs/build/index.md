@@ -1,9 +1,8 @@
 ---
 layout: default
 title: The Build
-parent: Voron Official Documentation
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # The Build

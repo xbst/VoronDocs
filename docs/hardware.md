@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Choosing a Printer / Extruder"
-parent: Voron Official Documentation
-nav_order: 2
+nav_order: 3
 ---
 
 # Choosing a Printer / Extruder 

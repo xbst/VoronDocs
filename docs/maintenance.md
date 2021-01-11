@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Maintenance Guide
-parent: Voron Official Documentation
-nav_order: 6
+nav_order: 7
 ---
 
 # Maintenance Guide

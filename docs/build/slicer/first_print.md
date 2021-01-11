@@ -2,7 +2,6 @@
 layout: default
 title: First Print
 parent: The Build
-grand_parent: Voron Official Documentation
 nav_order: 7
 ---
 

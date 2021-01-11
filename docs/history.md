@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Voron History
-parent: Voron Official Documentation
-nav_order: 7
+nav_order: 8
 ---
 
 # Voron History

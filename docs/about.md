@@ -1,8 +1,7 @@
 ---
 layout: default
 title: About Voron
-parent: Voron Official Documentation
-nav_order: 1
+nav_order: 2
 ---
 
 # About Voron

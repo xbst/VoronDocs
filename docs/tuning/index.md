@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Tuning Guides
-parent: Voron Official Documentation
 has_children: true
-nav_order: 5
+nav_order: 6
 ---
 
 # Tuning Guides

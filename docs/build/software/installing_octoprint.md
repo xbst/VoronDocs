@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Installing Octoprint
-nav_exclude: true
+parent: Software Configuration
+grand_parent: The Build
+nav_order: 3
 ---
 
 # Installing Octoprint

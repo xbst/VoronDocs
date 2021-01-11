@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Documentation
-nav_order: 3
+nav_order: 99
 has_children: true
 ---
 
