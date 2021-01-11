@@ -73,6 +73,10 @@ More sourcing information can be found in the [sourcing FAQ](./sourcing_faq.md)
 * Needle nose pliers
 * Diagonal wire cutters, small
 * Wire strippers from 16 gauge to 28 gauge
+* Soldering iron
+* Multimeter
+* Machinist scale / ruler
+* Machinist square, 4" or larger
 
 ---
 

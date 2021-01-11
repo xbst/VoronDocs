@@ -75,6 +75,10 @@ Materials not supported, these are all not designed to take repeated heating and
 
 The currently recommended lube for the linear rails is Mobilux EP1 or EP2, or the NLGI equivalents. Either Super Lube or EP1/2 is recommended for the extruder gears.
 
+### What kind of bolts are what?
+
+![](./images/socket-screws-wirral.jpg)
+
 ### What are the hammer nuts used for?
 
 The hammer nuts are intended to be used with the panel clips to allow easier removal and reinstallation. It is possible to apply some locktite and create quarter-turn fasteners.
