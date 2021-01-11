@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chamber Temperature & Exhaust Fan
+title: "Chamber Temperature & Exhaust Fan"
 nav_exclude: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voron V2 - SKR 1.3 Wiring
+title: "Voron V2 - SKR 1.3 Wiring"
 nav_exclude: true
 ---
 

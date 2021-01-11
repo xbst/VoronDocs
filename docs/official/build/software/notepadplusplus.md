@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notepad++ Configuration Editor (Windows)
+title: "Notepad++ Configuration Editor (Windows)"
 nav_exclude: true
 ---
 

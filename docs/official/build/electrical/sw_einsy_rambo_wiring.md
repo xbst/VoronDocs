@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voron Switchwire - Einsy Rambo Wiring
+title: "Voron Switchwire - Einsy Rambo Wiring"
 nav_exclude: true
 ---
 

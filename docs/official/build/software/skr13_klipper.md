@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SKR 1.3/1.4 Klipper Firmware
+title: "SKR 1.3/1.4 Klipper Firmware"
 nav_exclude: true
 ---
 

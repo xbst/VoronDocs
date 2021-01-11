@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sourcing / Buying FAQ
+title: "Sourcing / Buying FAQ"
 parent: Sourcing Information
 grand_parent: Voron Official Documentation
 ---

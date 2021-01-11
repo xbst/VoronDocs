@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How-To's
+title: "How-To's"
 parent: Community Documentation
 nav_order: 1
 ---

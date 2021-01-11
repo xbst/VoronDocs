@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Voron V2 - FLY FLYF407ZG Wiring
+title: "Voron V2 - FLY FLYF407ZG Wiring"
 nav_exclude: true
 ---
 
