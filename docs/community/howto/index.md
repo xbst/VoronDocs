@@ -18,19 +18,20 @@ Community-generated documentation for the many items that the official guide may
 
 ### External Links
 
+* [Assembling Limit Switches](https://www.youtube.com/watch?v=fKyn02Ntz7A)
 * [Changing OctoPi Hostname](https://github.com/guysoft/OctoPi/wiki/Changing-the-hostname)
+* [Cleaning and greasing Linear Rails](https://www.youtube.com/watch?v=i_F7D4UgkWY) _Be sure to read the description first_
+* [Drill and Counterbore Voron Bed](https://www.youtube.com/watch?v=N6EgYW_W3Js)
+* [Printed 80t pulley assembly](https://www.youtube.com/watch?v=W-mwJ2gfe9c)
+* [RAMPS 24V Conversion](https://www.youtube.com/watch?v=3eRuHNw-Uz)
+
 
 ## Still Needed
 
 1. Squaring your frame
-2. Assembling Limit Switches
-3. Belting the Gantry
-4. Gantry Assembly Guide
-5. Modify 20T Pulleys
-6. Clean/Greasing Linear Rails
-7. PT100 Setup
-8. RAMPS 24V Conversion
-9. V6 Hotend Assembly
-10. Drill and Counterbore Voron Bed
-12. Add LED Lighting
+2. Belting the Gantry
+3. Gantry Assembly Guide
+4. PT100 Setup
+5. V6 Hotend Assembly
+6. Add LED Lighting
 
