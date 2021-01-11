@@ -13,7 +13,7 @@ These are common questions for builders looking to gather all of the components 
 
 ### How much filament do I need for all printed parts?
 
-Assuming no failed or reprinted parts, the following guidelines apply:
+Assuming no failed or reprinted parts and following the recommendations for accent parts, the following guidelines apply:
 
 - V0:
 - V1:
