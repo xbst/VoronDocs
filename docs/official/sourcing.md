@@ -57,7 +57,7 @@ There are a growing number of suppliers that are assembling kits to build Voron 
 
 When choosing extrusions, V-slot extrusions are discouraged.  This is due to the use of the MGN9 linear rail as the V-slot and width of the rail are very close and cause misalignment.  Vendors of extrusions other than Misumi are generally fine but verification of the extrusion profile is highly recommended.
 
-If trying to keep costs down, the screen on any printer is entirely optional. Many builders solely use the web interface.
+If trying to keep costs down, the display / screen on any printer is entirely optional. Many builders solely use the web interface.
 
 Builders are welcome to make substitutions as they see fit but this printer is not a race to be as cheap as possible. It is designed to compete with many other high-end printers while still being affordable. Substituting parts may also have other unintended side effects and cause compatibility issues. Please feel free to ask for advice before any substitutions are made.
 
@@ -67,28 +67,33 @@ More sourcing information can be found in the [sourcing FAQ](./sourcing_faq.md)
 
 ### Required Tools
 
+_It might be possible to build, troubleshoot, and tune a Voron without this list, but it will be much harder._
+
 * Set of metric hex wrenches ("keys") from at least 1.5mm - 5mm. (Wiha, Wera, or Bondhus are preferred)
 * Standard screwdrivers
 * Wire strippers from 16 gauge (1.5mm) to 28 gauge (0.8mm)
 * Diagonal wire cutters, small
 * Soldering iron (solder helpful)
 * Multimeter
+* Metric calipers, 6"/150mm
 * Crimpers
 	* Molex Crimpers (Good: IWISS IWS-3220M, Better: Engineer PA-09, Best: Molex Crimper)
 	* Ferrule Crimpers
 	* Terminal Crimpers
-* Measuring Tools (one or both)
-	* Metric calipers, 6"/150mm
-	* Machinist scale / ruler, either 6"/150mm or 12"/300mm
 
 ### Helpful / Nice To Have Tools
+
+_These make Voron life a little nicer._
 
 * Needle nose pliers
 * Tweezers
 * Small "X-Acto" knife
-* Machinist square, 4"/100mm or larger (Sometimes called "locksmith angles")
+* Machinist scale / ruler, either 6"/150mm or 12"/300mm
+* Machinist square, 4"/100mm or larger (Sometimes called "locksmith angles", see DIN 875)
 * Deburring tool
 * Small flashlight
+* Precision screwdriver set
+* Heat shrink labeler
 
 ---
 
