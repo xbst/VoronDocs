@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pull Request Guide
+parent: Community Documentation
+nav_order: 8
+---
+
 # Pull Request Guide
 
 The following is a basic guide for creating pull requests for submtting to any of the Voron repositories such as Documentation and UserMods.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Community Submission Information
+parent: Community Documentation
+nav_order: 7
+---
+
 # Community Submission Information
 
 The following are guidelines for submitting documentation to the Voron Community documentation repo.  This is to provide a consistent format for the resulting documentation and information.
