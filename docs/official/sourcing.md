@@ -63,20 +63,32 @@ Builders are welcome to make substitutions as they see fit but this printer is n
 
 More sourcing information can be found in the [sourcing FAQ](./sourcing_faq.md)
 
-## Recommended Tools
+## Tools
 
-* Set of metric hex wrenches ("keys") from at least 1.5 - 5. (Wiha, Wera , or Bondhus are preferred)
-* Screwdrivers
-* Crimpers
-	* Molex (Good: IWISS IWS-3220M, Better: Engineer PA-09, Best: Molex Crimper)
-	* Ferrule
-* Needle nose pliers
+### Required Tools
+
+* Set of metric hex wrenches ("keys") from at least 1.5mm - 5mm. (Wiha, Wera, or Bondhus are preferred)
+* Standard screwdrivers
+* Wire strippers from 16 gauge (1.5mm) to 28 gauge (0.8mm)
 * Diagonal wire cutters, small
-* Wire strippers from 16 gauge to 28 gauge
-* Soldering iron
+* Soldering iron (solder helpful)
 * Multimeter
-* Machinist scale / ruler
-* Machinist square, 4" or larger
+* Crimpers
+	* Molex Crimpers (Good: IWISS IWS-3220M, Better: Engineer PA-09, Best: Molex Crimper)
+	* Ferrule Crimpers
+	* Terminal Crimpers
+* Measuring Tools (one or both)
+	* Metric calipers, 6"/150mm
+	* Machinist scale / ruler, either 6"/150mm or 12"/300mm
+
+### Helpful / Nice To Have Tools
+
+* Needle nose pliers
+* Tweezers
+* Small "X-Acto" knife
+* Machinist square, 4"/100mm or larger (Sometimes called "locksmith angles")
+* Deburring tool
+* Small flashlight
 
 ---
 
