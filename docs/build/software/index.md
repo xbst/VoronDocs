@@ -2,6 +2,7 @@
 layout: default
 title: Software Installation
 parent: The Build
+has_children: true
 nav_order: 3
 ---
 
