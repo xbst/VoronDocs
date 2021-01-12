@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installing Mainsail
-parent: Software Configuration
+parent: Software Installation
 grand_parent: The Build
 nav_order: 1
 ---
