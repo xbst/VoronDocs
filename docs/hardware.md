@@ -42,7 +42,7 @@ The [Voron V2](http://vorondesign.com/voron2.4) is a modified CoreXY design with
 
 The [Switchwire](http://vorondesign.com/voron_switchwire) is a Voron take on a classic Mendel (aka "bedflinger") design. It is a CoreXZ design so the print head is belt driven in both the X and Z axis eliminating the typical leadscrew Z drive allowing for very fast Z movement speeds and less weight on the grantry by moving the X motor to the frame. The stiff 3030/3060 contructed frame is just large enough to cover the entire swing of the bed and allows for a natural enclosure.  Without having an existing Prusa printer to pull parts from, cost is between \$700 - \$900
 
-[Introduction Video](https://www.youtube.com/watch?v=jwPLl1v5ae4)
+[Switchwire Introduction Video](https://www.youtube.com/watch?v=jwPLl1v5ae4)
 
 ![](./images/VoronSW.jpg)
 
@@ -50,7 +50,7 @@ The [Switchwire](http://vorondesign.com/voron_switchwire) is a Voron take on a c
 
 The [Legacy](https://vorondesign.com/voron_legacy) is a tribute to the roots of the Voron project and the RepRap project. It returns to the classic design using LM8UU rods and bearings but retains the new Afterburner toolhead.  It is not designed to be enclosed. The electronics enclosure is very small, adding to the open-air vibe. Costs are variable depending on the builder's old stock of LM8UU components but are expected to be between \$600 - \$800.
 
-[Introduction Video](https://www.youtube.com/watch?v=NZqvRLa8ShE)
+[Legacy Introduction Video](https://www.youtube.com/watch?v=NZqvRLa8ShE)
 
 ![](./images/VoronLegacy.jpg)
 
@@ -60,7 +60,7 @@ The [Legacy](https://vorondesign.com/voron_legacy) is a tribute to the roots of 
 
 Mobius is the original Bowden extruder for Voron printers, designed to be mounted on the frame.  Highly optimized, dual gear, and very effective for Bowden setups.  Driven by a full-size or a compact "pancake" NEMA17 motor.
 
-[Introduction Video](https://www.youtube.com/watch?v=H2RBZYDZgTQ)
+[M4 Introduction Video](https://www.youtube.com/watch?v=H2RBZYDZgTQ)
 
 ![](./images/M4.jpg)
 
