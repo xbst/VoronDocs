@@ -17,7 +17,7 @@ nav_order: 1
 
 ### Frame
 
-* A granite countertop or other similarly flat surface will with extrusion alignment to ensure a square frame
+* A granite countertop or other similarly flat surface will assist with extrusion alignment to ensure a square frame
 * Measure diagonals to check squareness - measurements should be < 2mm different.
 * Extrusions that are attached using blind joints may rotate. This will be prevented by the panel corners and skirts later in the build
 

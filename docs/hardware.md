@@ -74,6 +74,8 @@ Jetpack is a modified Mobius designed to be mounted on the X axis for a shorter 
 
 Afterburner is not specifically an extruder, but the collective name for the Voron direct-drive interchangeable toolhead system.
 
+[Afterburner Announcement Video](https://www.youtube.com/watch?v=lmJkIXW5tXc)
+
 ![](./images/afterburner.jpg)
 
 ## Clockwork
