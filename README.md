@@ -1,5 +1,7 @@
 # Welcome
 
+The README-based format is being moved to the new Pages based format here -> [documentation site](https://bdbell.github.io/VoronDocs/)
+
 Welcome to the world of Voron 3D printers!
 
 This is the Voron Documentation site. All of the information needed to go from zero to a working Voron printer can be found here.
