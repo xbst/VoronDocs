@@ -63,4 +63,4 @@ Voron does not currently support dual extrusion, dual hot ends, tool changers, o
 
 ---
 
-### Next: [Choosing a Printer / Extruder](./hardware/README.md)
+### Next: [Choosing a Printer / Extruder](./hardware.md)
