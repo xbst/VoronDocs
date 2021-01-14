@@ -1,0 +1,36 @@
+//
+// Voron Customizations
+//
+
+//
+// Color Definitions
+//
+$grey-dk-400: #2c2f33;
+$grey-dk-500: #23272a;
+$red-400: #bd0f0f;
+$red-500: #760a0a;
+
+//
+// Body Elements
+//
+$body-background-color: $grey-dk-400;
+$body-heading-color: $red-500;
+$btn-primary-color: $red-200;
+
+// Copied from JTD dark theme
+$sidebar-color: $grey-dk-500;
+$border-color: $grey-dk-200;
+
+$body-text-color: $grey-lt-300;
+$body-heading-color: $grey-lt-000;
+$nav-child-link-color: $grey-dk-000;
+$search-result-preview-color: $grey-dk-000;
+
+$link-color: $blue-000;
+$btn-primary-color: $blue-200;
+$base-button-color: $grey-dk-250;
+
+$code-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$table-background-color: $grey-dk-250;
+$feedback-color: darken($sidebar-color, 3%);
